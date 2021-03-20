@@ -1,7 +1,7 @@
 ### Hello!
 
 📚 I'm a librarian living in Melbourne, Australia.  
-👨🏻‍💻 I code mostly for fun and very occassionally for work.  
+👨🏻‍💻 I code mostly for fun and sometimes for work.  
 👤 my pronouns are he/him    
 💵 If you like something I've shared and want to contribute monetarily, please [donate to Sisters Inside](https://sistersinside.com.au/about/sisters-inside/)
 
